@@ -11,8 +11,8 @@ Subscribe to its events (TransitionShown and TransitionHidden) to know when you 
 ## Description
 
 There are two types of transition:
-- Doors : use two images that hide the screen by scrolling from the left and right borders of the screen
-- CutOff : use a gradient image to show/hide a texture fullscreen
+- Doors : use two images that hide the screen by scrolling from the left and right borders of the screen,
+- CutOff : use a gradient image to show/hide a texture fullscreen, you can create a transition like Animal Crossing with this one.
 
 ## Usage
 
@@ -32,3 +32,7 @@ A demo is present under the Sample folder.
 3. In the editor, use the [S] key to show the transition, and the [H] key to hide it.
 
 ![demo](Documentation~/images/transition_demo.gif)
+
+Combining this to the [EasyLoading](https://github.com/FredericRP/EasyLoading) asset, here is what you can get:
+
+![demo](Documentation~/images/transition-sample.gif)
