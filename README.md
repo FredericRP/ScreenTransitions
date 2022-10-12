@@ -1,3 +1,5 @@
+[![openupm](https://img.shields.io/npm/v/com.fredericrp.transition?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.fredericrp.transition/)
+
 # Transition
 
 Between scenes, to hide loading time or simply make a smooth transition, you have to show a transition screen. Those prefabs allow you to call the transition to be shown or hidden.
